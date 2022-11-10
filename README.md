@@ -31,7 +31,7 @@ Rekap Kondisi Covid-19 di Indonesia : <br>
 ## Kasus Covid-19 dan Income
 
 ![Grafik persentase kasus covid-19 di seluruh dunia berdasarkan tingkat income](https://github.com/auryhs/hology2022-dsc-tim2/blob/74b98635299b15747ad6f0a4aa78b787ed66b53f/Photos/percentage%20tdeaths%20income%20continent.png)
-</p> Grafik persentasi kasus covid-19 di seluruh dunia berdasarkan tingkat income </p>
+</p> Grafik persentasi kasus covid-19 di seluruh dunia berdasarkan tingkat income. Berdasarkan data negara dengan label Low Income memiliki kasus Covid-19 tertinggi.</p>
 
 
 
