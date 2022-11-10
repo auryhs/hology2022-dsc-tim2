@@ -1,4 +1,4 @@
-# hology2022-dsc-tim2
+# Hology2022-DSC-Tim 2
 
 Kami mengambil data terkait Covid-19 di [kaggle](https://www.kaggle.com/datasets/arslanali4343/covid19-data-from-world)
 
