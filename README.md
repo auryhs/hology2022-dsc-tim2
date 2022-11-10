@@ -15,12 +15,12 @@ Kami mengambil data terkait Covid-19 di [kaggle](https://www.kaggle.com/datasets
 
 ![Rekap kondisi covid-19 di Indonesia hingga saat ini (total cases, total deaths, total vaksin 1, total full vaksin)](https://github.com/auryhs/hology2022-dsc-tim2/blob/74b98635299b15747ad6f0a4aa78b787ed66b53f/Photos/recap%20indonesia's%20covid%20condition.png)
 </p> Grafik Rekap kondisi covid-19 di Indonesia hingga saat ini (total cases, total deaths, total vaksin 1, total full vaksin). 
-Rekap Kondisi Covid-19 di Indonesia : 
-- Total kasus di Indonesia sebesar 2.3% dari total populasi.
-- Total kematian 0.0577% dari total populasi.
-- Total orang yang sudah Vaksin 1 sejumlah 42,7% dari total populasi.
-- Total orang yang sudah Full Vaksin sejumlah 38,4% dari total populasi.
-- Total kasus dengan orang berumur > 65 tahun sebesar 5.05 </p>
+Rekap Kondisi Covid-19 di Indonesia : <br>
+- Total kasus di Indonesia sebesar 2.3% dari total populasi. <br>
+- Total kematian 0.0577% dari total populasi. <br>
+- Total orang yang sudah Vaksin 1 sejumlah 42,7% dari total populasi. <br>
+- Total orang yang sudah Full Vaksin sejumlah 38,4% dari total populasi. <br>
+- Total kasus dengan orang berumur > 65 tahun sebesar 5.05 </p> <br>
 
 ![Scatter plot total kematian & umur > 65 di seluruh dunia](https://github.com/auryhs/hology2022-dsc-tim2/blob/74b98635299b15747ad6f0a4aa78b787ed66b53f/Photos/total%20deaths%20n%20aged%2065%20older.png)
 </p> Scatter plot total kematian & umur > 65 </p>
