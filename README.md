@@ -2,12 +2,12 @@
 
 Kami mengambil data terkait Covid-19 di [kaggle](https://www.kaggle.com/datasets/arslanali4343/covid19-data-from-world)
 
-## Kasus Covid-19 di Seluruh Dunia
+## Kasus Covid-19 di Indonesia
 ![Grafik total kasus kenaikan covid-19 pertahun di Seluruh dunia](Photos/grafik%20total%20cases.png)
-</p> Grafik total kasus covid pertahun dan per 5 bulan di Seluruh dunia, Terlihat dari data kasus Covid-19 terus meningkat dari tahun ke tahun</p>
+</p> Grafik total kasus covid pertahun di Indoneisa Terlihat dari data kasus Covid-19 terus meningkat dari tahun ke tahun</p>
 
 ![Grafik total kenaikan orang yang di vaksin pertahun di Seluruh dunia](Photos/grafik%20people%20vaccinated.png)
-</p> Grafik total kenaikan orang yang divaksinasi per tahun di seluruh dunia </p>
+</p> Grafik total kenaikan orang yang divaksinasi per tahun di Indonesia </p>
 
 ## Kasus Covid-19 di Asia Tenggara
 ![Perbandingan total kasus dan total kematian covid-19 di negara asia tenggara](Photos/total%20cases%20n%20deaths%20southeast%20asia.png)
@@ -28,10 +28,10 @@ Rekap Kondisi Covid-19 di Indonesia : <br>
 ![Grafik Total kasus orang di umur > 65 di Asia Tenggara](Photos/aged%2065%20older%20southeast%20asia.png)
 </p> Grafik Total kasus orang di umur. Singapura memiliki kasus orang yang terkena Covid-19 yang berusia lebih dari 65 tahun tertinggi di Asia Tenggara</p>
 
-## Kasus Covid-19 dan Income
+## Persentase Total Kematian dari Total Kasus berdasarkan Income 
 
 ![Grafik persentase kasus covid-19 di seluruh dunia berdasarkan tingkat income](Photos/percentage%20tdeaths%20income%20continent.png)
-</p> Grafik persentasi kasus covid-19 di seluruh dunia berdasarkan tingkat income. Berdasarkan data negara dengan label Low Income memiliki kasus Covid-19 tertinggi.</p>
+</p> Grafik persentase total kematian dari total kasus covid-19 di negara yang dikelompokkan berdasarkan tingkat income. Berdasarkan data, negara upper middle income memiliki persentase kedua terbesar. Indonesia termasuk ke dalam negara upper middle income</p>
 
 
 
